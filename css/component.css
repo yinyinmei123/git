@@ -107,9 +107,10 @@
 	background: #0096e6;
 }
 .abc{
-	width: 25px;
-	height: 25px;
-	bottom: 50px;
-	background-position:  0 -30px;
-	position: absolute;
+        width: 400px;
+        height: 400px;
+        position: absolute;
+        top:50%;
+        margin-left: 0px;
+        margin-top: 300px;   
 }
