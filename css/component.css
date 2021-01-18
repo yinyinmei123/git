@@ -109,6 +109,7 @@
 .abc{
 	width: 25px;
 	height: 25px;
+	bottom: 50px;
 	background-position:  0 -30px;
 	position: absolute;
 }
