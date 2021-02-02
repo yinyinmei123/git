@@ -112,9 +112,9 @@ mul_buffer_num=100
 # 缓冲区大小,以字节为单位，使用xKB/mb/GB
 mul_buffer_size=1
 # 过滤字段，只显示过滤后的内容，可使用正则表达式，默认为null
-mul_incloud=null
+mul_include=null
 # 排除字段，不显示排除后的内容，可使用正则表示是，默认为null
-mul_excloud=null
+mul_exclude=null
 EOF
 
 cat > $K_CONF/basics.conf <<'EOF'
